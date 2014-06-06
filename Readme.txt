@@ -1,0 +1,1 @@
+General purpose dynamic storage allocator for C programs; that is, my own version of the malloc, free, realloc, and calloc functions
